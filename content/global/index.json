@@ -1,0 +1,17 @@
+{
+  "gtmId": "GTM-MS25MX2",
+  "redirects": [
+    {
+      "from": "/ahs",
+      "to": "/asia-hackathon-season"
+    },
+    {
+      "from": "/asia-hackathon-site",
+      "to": "/asia-hackathon-season"
+    },
+    {
+      "from": "/dora-hacks",
+      "to": "/dora-hacks-site"
+    }
+  ]
+}
